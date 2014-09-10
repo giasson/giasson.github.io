@@ -1,0 +1,188 @@
+{
+  "lien1": {
+    "name": "lien1",
+    "title": "UBUWEB",
+    "description": null,
+    "urls": ["http://www.ubu.com/"]
+  },
+  "lien2": {
+    "name": "lien2",
+    "title": "APPLE PIE EDITIONS",
+    "description": null,
+    "urls": ["http://www.applepie-editions.co.uk/"]
+  },
+  "lien3": {
+    "name": "lien3",
+    "title": "DEREK BEAULIEU",
+    "description": null,
+    "urls": ["http://derekbeaulieu.wordpress.com/", "http://epc.buffalo.edu/authors/beaulieu/"]
+  },
+  "lien4": {
+    "name": "lien4",
+    "title": "CHAPBOOK PUBLISHER",
+    "description": null,
+    "urls": ["http://chapbookpublisher.com/"]
+  },
+  "lien5": {
+    "name": "lien5",
+    "title": "LULU : STEVE GIASSON",
+    "description": null,
+    "urls": ["http://www.lulu.com/spotlight/giasson"]
+  },
+  "lien6": {
+    "name": "lien6",
+    "title": "ENTRE REGARD ET REGARD : DE L’IRREPRÉSENTABLE DANS PAYSAGE SOUS SURVEILLANCE DE HEINER MÜLLER.",
+    "description": "Mémoire présenté comme exigence partielle de la Maîtrise en théâtre par Steve Giasson. Janvier 2011.",
+    "urls": ["http://www.archipel.uqam.ca/3869/1/M11903.pdf"]
+  },
+  "lien7": {
+    "name": "lien7",
+    "title": "ENTRE REGARD ET REGARD",
+    "description": "Mise en scène de Steve Giasson. D’après Paysage sous surveillance de Heiner Müller.",
+    "urls": ["http://www.theatre.uqam.ca/component/content/article/60-entre-regard-et-regard.html"]
+  },
+  "lien8": {
+    "name": "lien8",
+    "title": "FACEBOOK : STEVE GIASSON",
+    "description": null,
+    "urls": ["http://www.facebook.com/profile.php?id=691747588"]
+  },
+  "lien9": {
+    "name": "lien9",
+    "title": "ROB FITTERMAN",
+    "description": null,
+    "urls": ["https://files.nyu.edu/rmf1/public/", "http://writing.upenn.edu/pennsound/x/Fitterman.php"]
+  },
+  "lien10": {
+    "name": "lien10",
+    "title": "LULU : VANESSA PLACE",
+    "description": null,
+    "urls": ["https://files.nyu.edu/rmf1/public/"]
+  },
+  "lien11": {
+    "name": "lien11",
+    "title": "VANESSA PLACE",
+    "description": null,
+    "urls": ["http://vanessaplace.artcodeinc.com/", "http://epc.buffalo.edu/authors/place/index.html", "http://writing.upenn.edu/pennsound/x/Place.php"]
+  },
+  "lien12": {
+    "name": "lien12",
+    "title": "KENNETH GOLDSMITH",
+    "description": null,
+    "urls": ["http://epc.buffalo.edu/authors/goldsmith/", "http://www.poetryfoundation.org/harriet/author/kgoldsmith/", "http://writing.upenn.edu/pennsound/x/Goldsmith.html"]
+  },
+  "lien13": {
+    "name": "lien13",
+    "title": "OLA STÅHL",
+    "description": null,
+    "urls": ["http://www.olastahl.com/"]
+  },
+  "lien14": {
+    "name": "lien14",
+    "title": "TONY TREHY",
+    "description": null,
+    "urls": ["http://www.tonytrehy.com/"]
+  },
+  "lien15": {
+    "name": "lien15",
+    "title": "TEXT FESTIVAL",
+    "description": null,
+    "urls": ["http://www.textfestival.com/"]
+  },
+  "lien16": {
+    "name": "lien16",
+    "title": "ECLIPSE",
+    "description": null,
+    "urls": ["http://english.utah.edu/eclipse/"]
+  },
+  "lien17": {
+    "name": "lien17",
+    "title": "LES FIGUES PRESS",
+    "description": null,
+    "urls": ["http://www.stevegiasson.com/fr/www.lesfigues.com/"]
+  },
+  "lien18": {
+    "name": "lien18",
+    "title": "INFORMATION AS MATERIAL",
+    "description": null,
+    "urls": ["http://informationasmaterial.com/"]
+  },
+  "lien19": {
+    "name": "lien19",
+    "title": "INSERT PRESS",
+    "description": null,
+    "urls": ["http://insertpress.net/"]
+  },
+  "lien20": {
+    "name": "lien20",
+    "title": "TRUCK BOOKS",
+    "description": null,
+    "urls": ["http://truckbooks.org/"]
+  },
+  "lien21": {
+    "name": "lien21",
+    "title": "PENNSOUND",
+    "description": null,
+    "urls": ["http://writing.upenn.edu/pennsound/"]
+  },
+  "lien22": {
+    "name": "lien22",
+    "title": "LEMON HOUND",
+    "description": null,
+    "urls": ["http://lemonhound.blogspot.com/"]
+  },
+  "lien23": {
+    "name": "lien23",
+    "title": "GEOF HUTH",
+    "description": null,
+    "urls": ["http://dbqp.blogspot.com/"]
+  },
+  "lien24": {
+    "name": "lien24",
+    "title": "DARREN WERSHLER",
+    "description": null,
+    "urls": ["http://www.alienated.net/dw/"]
+  },
+  "lien25": {
+    "name": "lien25",
+    "title": "HELEN HAJNOCZKY",
+    "description": null,
+    "urls": ["http://ateacozyisasometimes.blogspot.com/"]
+  },
+  "lien26": {
+    "name": "lien26",
+    "title": "QUENTIN LANNES",
+    "description": null,
+    "urls": ["http://quentin-lannes.net/"]
+  },
+  "lien27": {
+    "name": "lien27",
+    "title": "LE PÉRISTYLE NOMADE",
+    "description": null,
+    "urls": ["http://peristylenomade.org/fr/realisations/vitrine-sur-le-peristyle-nomade"]
+  },
+  "lien28": {
+    "name": "lien28",
+    "title": "PIERRE-MARC BEAUDOIN",
+    "description": null,
+    "urls": ["http://pmbeaudoin.wordpress.com/"]
+  },
+  "lien29": {
+    "name": "lien29",
+    "title": "OLIVIER GIROUARD",
+    "description": null,
+    "urls": ["http://www.ekumen.com/en/artist/girouard/?c=fabbrica"]
+  },
+  "lien30": {
+    "name": "lien30",
+    "title": "DAVID MANSEAU",
+    "description": null,
+    "urls": ["http://www.exo-site.org/exo-membres/david-manseau/"]
+  },
+  "lien31": {
+    "name": "lien31",
+    "title": "KATE DURBIN",
+    "description": null,
+    "urls": ["http://www.katedurbin.blogspot.com/", "http://www.gagajournal.blogspot.com/"]
+  }
+}

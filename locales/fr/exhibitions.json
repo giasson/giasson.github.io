@@ -1,0 +1,1343 @@
+{
+    "an_evening_with_no_press": {
+        "an_evening_with_no_press_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "an_evening_with_no_press_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "description": "",
+        "name": "an_evening_with_no_press",
+        "title": "An Evening with No Press"
+    },
+    "biennale_rouyn-noranda": {
+        "biennale_rouyn-noranda_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "biennale_rouyn-noranda_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "description": "",
+        "name": "biennale_rouyn-noranda",
+        "title": "Biennale d'art performatif"
+    },
+    "dejareve": {
+        "description": "CDEX, 9 au 16 septembre 2011, Montr\u00e9al",
+        "deux_fois_dans_le_meme_fleuve": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Six photographies trouv\u00e9es, cinq cartes postales trouv\u00e9es de soldats de la Premi\u00e8re Guerre mondiale et tablette en bois. Dimensions variables."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "dejareve_deux_fois_dans_le_meme_fleuve",
+            "otherDate": "2011. CDEX, 9 au 16 septembre 2011, Montr\u00e9al",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Deux fois dans le m\u00eame fleuve"
+        },
+        "deux_fois_dans_le_meme_fleuve_vox": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Six photographies trouv\u00e9es, cinq cartes postales trouv\u00e9es de soldats de la Premi\u00e8re Guerre mondiale et tablette en bois. Dimensions variables.",
+                "Vue de l\u2019installation."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "dejareve_deux_fois_dans_le_meme_fleuve_vox",
+            "otherDate": "2011. CDEX, 9 au 16 septembre 2011, Montr\u00e9al",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Deux fois dans le m\u00eame fleuve + Vox"
+        },
+        "name": "dejareve",
+        "silence_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "2011. Sept cartes postales trouv\u00e9es, lettres en vinyle. Dimensions variables.",
+                "Vue de l\u2019installation."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "silence_1",
+            "otherDate": "CDEX, 9 au 16 septembre 2011, Montr\u00e9al.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Silence"
+        },
+        "silence_2": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "2011. Sept cartes postales trouv\u00e9es, lettres en vinyle. Dimensions variables.",
+                "Vue de l\u2019installation."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "silence_2",
+            "otherDate": "CDEX, 9 au 16 septembre 2011, Montr\u00e9al.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Silence"
+        },
+        "title": "D\u00e9j\u00e0-r\u00eav\u00e9",
+        "vox_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Toutes les phrases entendues par l\u2019auteur \u00e0 l\u2019ext\u00e9rieur de son appartement, du 25 juillet 2009 au 24 juillet 2010, ordonn\u00e9es et num\u00e9rot\u00e9es chronologiquement."
+            ],
+            "downloadurl": "Projets/giasson_vox.pdf",
+            "lookbooks": null,
+            "materials": "2011. Impression num\u00e9rique sur papier. Dimensions variables.",
+            "name": "vox_1",
+            "otherDate": "CDEX, 9 au 16 septembre 2011, Montr\u00e9al",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vox"
+        },
+        "vox_2": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Toutes les phrases entendues par l\u2019auteur \u00e0 l\u2019ext\u00e9rieur de son appartement, du 25 juillet 2009 au 24 juillet 2010, ordonn\u00e9es et num\u00e9rot\u00e9es chronologiquement."
+            ],
+            "downloadurl": "Projets/giasson_vox.pdf",
+            "lookbooks": null,
+            "materials": "2011. Impression num\u00e9rique sur papier. Dimensions variables.",
+            "name": "vox_2",
+            "otherDate": "CDEX, 9 au 16 septembre 2011, Montr\u00e9al",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vox"
+        },
+        "vox_3": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Toutes les phrases entendues par l\u2019auteur \u00e0 l\u2019ext\u00e9rieur de son appartement, du 25 juillet 2009 au 24 juillet 2010, ordonn\u00e9es et num\u00e9rot\u00e9es chronologiquement."
+            ],
+            "downloadurl": "Projets/giasson_vox.pdf",
+            "lookbooks": null,
+            "materials": "2011. Impression num\u00e9rique sur papier. Dimensions variables.",
+            "name": "vox_3",
+            "otherDate": "CDEX, 9 au 16 septembre 2011, Montr\u00e9al",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vox"
+        }
+    },
+    "ed_ruscha_books_&_co": {
+        "description": "",
+        "ed_ruscha_books_&_co_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "ed_ruscha_books_&_co_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "name": "ed_ruscha_books_&_co",
+        "title": "Ed Ruscha Books & Co."
+    },
+    "eject": {
+        "description": "",
+        "eject_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "eject_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "name": "eject",
+        "title": "EJECT"
+    },
+    "exhibi_2010": {
+        "description": "",
+        "exhibi_2010_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "exhibi_2010_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "name": "exhibi_2010",
+        "title": "ExhiBi 2010"
+    },
+    "labyrinthe_artistique": {
+        "description": "",
+        "labyrinthe_artistique_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "labyrinthe_artistique_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "name": "labyrinthe_artistique",
+        "title": "Labyrinthe Artistique",
+        "video_02": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video_02",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 2",
+            "url": "http://www.youtube.com/watch?v=wCZczNJ80nw"
+        },
+        "video_03": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video_03",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 3",
+            "url": "http://www.youtube.com/watch?v=-MZBTExg64w"
+        },
+        "video_04": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video_04",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 4",
+            "url": "http://www.youtube.com/watch?v=4R-fCt2WHls"
+        },
+        "video_05": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video_05",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 5",
+            "url": "http://www.youtube.com/watch?v=WVzHziKRSww"
+        },
+        "video_06": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video06",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 6",
+            "url": "http://www.youtube.com/watch?v=ylSKRwMzRw0"
+        },
+        "video_07": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video07",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 7",
+            "url": "http://www.youtube.com/watch?v=i48Kv2mF6Y4"
+        },
+        "video_08": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video08",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 8",
+            "url": "http://www.youtube.com/watch?v=WHu9V3z6Kfg"
+        },
+        "video_09": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video09",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 9",
+            "url": "http://www.youtube.com/watch?v=TdIGpmMeAuY"
+        },
+        "video_10": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video10",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 10",
+            "url": "http://www.youtube.com/watch?v=yDqzseqTNDs"
+        },
+        "video_11": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video11",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 11",
+            "url": "http://www.youtube.com/watch?v=TsTNsgk9xOQ"
+        },
+        "video_12": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "video12",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Vid\u00e9o 12",
+            "url": "http://www.youtube.com/watch?v=SV43ptMSQfI"
+        }
+    },
+    "liverpool_biennial_2012": {
+        "description": "",
+        "liverpool_biennial_2012_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "liverpool_biennial_2012_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "name": "liverpool_biennial_2012",
+        "title": "Liverpool Biennial 2012"
+    },
+    "monobandes_III": {
+        "description": "",
+        "monobandes_III_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "monobandes_III_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "name": "monobandes_III",
+        "title": "Monobandes III"
+    },
+    "offre_speciale": {
+        "advertise_here": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 15 copies.",
+            "name": "advertise_here",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Advertise Here"
+        },
+        "description": "CDEX, 4 mars 2011, Montr\u00e9al",
+        "i_am_not_gavin_turk": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 15 copies.",
+            "name": "i_am_not_gavin_turk",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "I Am Not Gavin Turk"
+        },
+        "i_am_not_lichtenstein": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 15 copies.",
+            "name": "i_am_not_lichtenstein",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "I Am Not Roy Lichtenstein"
+        },
+        "i_am_not_on_kawara": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 13 copies.",
+            "name": "i_am_not_on_kawara",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "I Am Not On Kawara"
+        },
+        "i_am_not_richard_prince": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 15 copies.",
+            "name": "i_am_not_richard_prince",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "I Am Not Richard Prince"
+        },
+        "i_am_not_warhol": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 15 copies.",
+            "name": "i_am_not_warhol",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "I Am Not Andy Warhol"
+        },
+        "name": "offre_speciale",
+        "there_is_no_image_available": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 24 copies.",
+            "name": "there_is_no_image_available",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "There is No Image Available"
+        },
+        "this_is_not_a_work_of_art_yet": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 14 copies.",
+            "name": "this_is_not_a_work_of_art_yet",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "This is not a Work of Art (Yet)"
+        },
+        "title": "L\u2019offre sp\u00e9ciale",
+        "untitled_after_levine": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 13 copies.",
+            "name": "untitled_after_levine",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Untitled (After Sherrie Levine)"
+        },
+        "untitled_felix": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "S\u00e9rigraphie sur papier. 17,2 cm x 12 cm. 15 copies.",
+            "name": "untitled_felix",
+            "otherDate": "L\u2019offre sp\u00e9ciale, CDEX, UQAM, 4 mars 2011.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Untitled (Felix)"
+        }
+    },
+    "photoforum": {
+        "anarchy_please": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "anarchy_please",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "description": "",
+        "name": "photoforum",
+        "title": "Photoforum"
+    },
+    "poeticas_para_unha_vida": {
+        "description": "",
+        "name": "poeticas_para_unha_vida",
+        "poeticas_para_unha_vida_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "poeticas_para_unha_vida_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "title": "Po\u00e9ticas para unha vida"
+    },
+    "random_acts_of_language": {
+        "description": "",
+        "name": "random_acts_of_language",
+        "random_acts_of_language_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "random_acts_of_language_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "title": "Random Acts of Language"
+    },
+    "requiem": {
+        "246": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Po\u00e8me / m\u00e9morial compilant les noms des 246 morts de l\u2019Iliade d\u2019Hom\u00e8re.",
+                "Vue de l\u2019installation."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "2011. Lettres en vinyle sur carton. Dimensions variables.",
+            "name": "246",
+            "otherDate": "Exposition Requiem au Fusilier Museum (Text Festival 2011), Manchester, 30 avril au 16 juillet 2011. Collection : Bury Art Gallery, Museum and Archive, Manchester, Royaume-Uni.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "246"
+        },
+        "246_detail": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Po\u00e8me / m\u00e9morial compilant les noms des 246 morts de l\u2019Iliade d\u2019Hom\u00e8re. ",
+                "Vue de l\u2019installation."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "2011. Lettres en vinyle sur carton. Dimensions variables.",
+            "name": "246_detail",
+            "otherDate": "Exposition Requiem au Fusilier Museum (Text Festival 2011), Manchester, 30 avril au 16 juillet 2011. Collection : Bury Art Gallery, Museum and Archive, Manchester, Royaume-Uni.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "246 (D\u00e9tail)"
+        },
+        "246_fusilier_museum_bury_uk": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Po\u00e8me / m\u00e9morial compilant les noms des 246 morts de l\u2019Iliade d\u2019Hom\u00e8re. ",
+                "Vue de l\u2019installation."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "2011. Lettres en vinyle sur carton. Dimensions variables.",
+            "name": "246_fusilier_museum_bury_uk",
+            "otherDate": "Exposition Requiem au Fusilier Museum (Text Festival 2011), Manchester, 30 avril au 16 juillet 2011. Collection : Bury Art Gallery, Museum and Archive, Manchester, Royaume-Uni.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "246 (Fusilier Museum Bury GB)"
+        },
+        "description": "Fusilier Museum, 30 avril au 16 juillet 2011, Manchester",
+        "name": "requiem",
+        "title": "Requiem (Text Festival 2011)"
+    },
+    "salon_royal": {
+        "description": "",
+        "name": "salon_royal",
+        "salon_royal_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "salon_royal_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "title": "Salon d'art performance royal"
+    },
+    "scum_manifesto": {
+        "description": "",
+        "name": "scum_manifesto",
+        "scum_manifesto_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "scum_manifesto_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "title": "S.C.U.M. Manifesto"
+    },
+    "skol": {
+        "11_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Environ 30 000 feuilles de papier -- sur lesquelles est imprim\u00e9 le po\u00e8me conceptuel 11 (2010. Publishing the Unpublishable #56, Ubu Editions/Ubu Web), compilant tous les commentaires sur YouTube entourant une vid\u00e9o de l\u2019attentat perp\u00e9tr\u00e9 le 11 septembre 2001 contre le World Trade Center -- dispos\u00e9es en deux piles \u00e9gales \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 emporter des feuilles avec eux. Celles-ci ne seront pas remplac\u00e9es."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "11_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "11"
+        },
+        "11_2": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Environ 30 000 feuilles de papier -- sur lesquelles est imprim\u00e9 le po\u00e8me conceptuel 11 (2010. Publishing the Unpublishable #56, Ubu Editions/Ubu Web), compilant tous les commentaires sur YouTube entourant une vid\u00e9o de l\u2019attentat perp\u00e9tr\u00e9 le 11 septembre 2001 contre le World Trade Center -- dispos\u00e9es en deux piles \u00e9gales \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 emporter des feuilles avec eux. Celles-ci ne seront pas remplac\u00e9es."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "11_2",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "11"
+        },
+        "11_3": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Environ 30 000 feuilles de papier -- sur lesquelles est imprim\u00e9 le po\u00e8me conceptuel 11 (2010. Publishing the Unpublishable #56, Ubu Editions/Ubu Web), compilant tous les commentaires sur YouTube entourant une vid\u00e9o de l\u2019attentat perp\u00e9tr\u00e9 le 11 septembre 2001 contre le World Trade Center -- dispos\u00e9es en deux piles \u00e9gales \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 emporter des feuilles avec eux. Celles-ci ne seront pas remplac\u00e9es."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "11_3",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "11"
+        },
+        "11_4": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Environ 30 000 feuilles de papier -- sur lesquelles est imprim\u00e9 le po\u00e8me conceptuel 11 (2010. Publishing the Unpublishable #56, Ubu Editions/Ubu Web), compilant tous les commentaires sur YouTube entourant une vid\u00e9o de l\u2019attentat perp\u00e9tr\u00e9 le 11 septembre 2001 contre le World Trade Center -- dispos\u00e9es en deux piles \u00e9gales \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 emporter des feuilles avec eux. Celles-ci ne seront pas remplac\u00e9es."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "11_4",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "11"
+        },
+        "black_boxes_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Cinquante-quatre bo\u00eetiers noirs de DVD empil\u00e9s les uns sur les autres, contenant cinquante-quatre films pirat\u00e9s, grav\u00e9s sur DVD, dans lesquels la ville de New York est partiellement ou compl\u00e8tement d\u00e9truite et/ou ses habitants menac\u00e9s : King Kong (1933), Deluge (1933), When Worlds Collide (1951), Invasion U.S.A. (1952), The Beast from 20,000 Fathoms (1953), Earth vs. the Flying Saucers (1956), The World, the Flesh and the Devil (1959), Fail-Safe (1964), Destroy All Monsters (1968), Planet of the Apes (1968), Beneath the Planet of the Apes (1970), Meteor (1979), Zombi 2 (1979), Escape from New York (1981), Q (1982), 2019, After the Fall of New York (1983), Endgame (1983), The Abyss (1989), A Troll in Central Park (1994), Daylight (1996), Mars Attacks! (1996), Independence Day (1996), Armageddon (1998), Deep Impact (1998), Godzilla (1998), A.I. Artificial Intelligence (2001), Final Fantasy: The Spirits Within (2001), The Time Machine (2002), The Core (2003), Sky Captain and the World of Tomorrow (2004), The Day After Tomorrow (2004), Godzilla: Final Wars (2004), King Kong (2005), Absolute Zero (2005), \t The Hitchhiker's Guide to the Galaxy (2005), War of the Worlds (2005), Disaster Zone: Volcano in New York (2006), Resident Evil Extinction (2007), I Am Legend (2007), The Happening (2008),  Cloverfield (2008), Disaster Movie (2008), NYC: Tornado Terror (2008), The Day The Earth Stood Still (2008), The Day the Earth Stopped (2008), War of the Worlds 2: The Next Wave (2008), Wall-E (2008), Watchmen (2009), Knowing (2009), Cloudy with a Chance of Meatballs (2009), Skyline (2010), 2012: Ice Age (2011), The Avengers (2012), Dark Knight Rises (2012)."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "black_boxes_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BLACK BOXES"
+        },
+        "black_boxes_2": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Cinquante-quatre bo\u00eetiers noirs de DVD empil\u00e9s les uns sur les autres, contenant cinquante-quatre films pirat\u00e9s, grav\u00e9s sur DVD, dans lesquels la ville de New York est partiellement ou compl\u00e8tement d\u00e9truite et/ou ses habitants menac\u00e9s : King Kong (1933), Deluge (1933), When Worlds Collide (1951), Invasion U.S.A. (1952), The Beast from 20,000 Fathoms (1953), Earth vs. the Flying Saucers (1956), The World, the Flesh and the Devil (1959), Fail-Safe (1964), Destroy All Monsters (1968), Planet of the Apes (1968), Beneath the Planet of the Apes (1970), Meteor (1979), Zombi 2 (1979), Escape from New York (1981), Q (1982), 2019, After the Fall of New York (1983), Endgame (1983), The Abyss (1989), A Troll in Central Park (1994), Daylight (1996), Mars Attacks! (1996), Independence Day (1996), Armageddon (1998), Deep Impact (1998), Godzilla (1998), A.I. Artificial Intelligence (2001), Final Fantasy: The Spirits Within (2001), The Time Machine (2002), The Core (2003), Sky Captain and the World of Tomorrow (2004), The Day After Tomorrow (2004), Godzilla: Final Wars (2004), King Kong (2005), Absolute Zero (2005), \t The Hitchhiker's Guide to the Galaxy (2005), War of the Worlds (2005), Disaster Zone: Volcano in New York (2006), Resident Evil Extinction (2007), I Am Legend (2007), The Happening (2008),  Cloverfield (2008), Disaster Movie (2008), NYC: Tornado Terror (2008), The Day The Earth Stood Still (2008), The Day the Earth Stopped (2008), War of the Worlds 2: The Next Wave (2008), Wall-E (2008), Watchmen (2009), Knowing (2009), Cloudy with a Chance of Meatballs (2009), Skyline (2010), 2012: Ice Age (2011), The Avengers (2012), Dark Knight Rises (2012)."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "black_boxes_2",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BLACK BOXES"
+        },
+        "blank_card_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Une carte de v\u0153ux de 5\"x 7\" sur laquelle est imprim\u00e9e une photographie en noir et blanc des tours jumelles du WTC d\u00e9coup\u00e9e et pos\u00e9e sur un socle blanc avec les retailles."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "blank_card_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BLANK CARD (NOTHING TO SEE NOTHING TO HIDE)"
+        },
+        "blank_card_2": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Une carte de v\u0153ux de 5\"x 7\" sur laquelle est imprim\u00e9e une photographie en noir et blanc des tours jumelles du WTC d\u00e9coup\u00e9e et pos\u00e9e sur un socle blanc avec les retailles."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "blank_card_2",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BLANK CARD (NOTHING TO SEE NOTHING TO HIDE) (details)"
+        },
+        "buddha_de_bamiyan_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "2014-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Casse-t\u00eate de 1008 morceaux repr\u00e9sentant l\u2019une des statues du Bouddha en pieds (env. Ve si\u00e8cle apr\u00e8s J-C) qui se trouvaient dans le district de B\u00e2miy\u00e2n (centre-est de l'Afghanistan) et que les talibans ont d\u00e9truites en mars 2001, au moyen d'explosifs et de tirs d'artillerie, puisque toute repr\u00e9sentation humaine est interdite par la doctrine du wahhabisme. Le casse-t\u00eate est dispos\u00e9, d\u00e9fait, \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 l\u2019assembler ou \u00e0 le d\u00e9faire \u00e0 nouveau, s\u2019il est compl\u00e9t\u00e9."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "buddha_de_bamiyan_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BUDDHA OF BAMIYAN"
+        },
+        "buddha_de_bamiyan_2": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Casse-t\u00eate de 1008 morceaux repr\u00e9sentant l\u2019une des statues du Bouddha en pieds (env. Ve si\u00e8cle apr\u00e8s J-C) qui se trouvaient dans le district de B\u00e2miy\u00e2n (centre-est de l'Afghanistan) et que les talibans ont d\u00e9truites en mars 2001, au moyen d'explosifs et de tirs d'artillerie, puisque toute repr\u00e9sentation humaine est interdite par la doctrine du wahhabisme. Le casse-t\u00eate est dispos\u00e9, d\u00e9fait, \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 l\u2019assembler ou \u00e0 le d\u00e9faire \u00e0 nouveau, s\u2019il est compl\u00e9t\u00e9."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "buddha_de_bamiyan_2",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BUDDHA OF BAMIYAN"
+        },
+        "buddha_de_bamiyan_3": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Casse-t\u00eate de 1008 morceaux repr\u00e9sentant l\u2019une des statues du Bouddha en pieds (env. Ve si\u00e8cle apr\u00e8s J-C) qui se trouvaient dans le district de B\u00e2miy\u00e2n (centre-est de l'Afghanistan) et que les talibans ont d\u00e9truites en mars 2001, au moyen d'explosifs et de tirs d'artillerie, puisque toute repr\u00e9sentation humaine est interdite par la doctrine du wahhabisme. Le casse-t\u00eate est dispos\u00e9, d\u00e9fait, \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 l\u2019assembler ou \u00e0 le d\u00e9faire \u00e0 nouveau, s\u2019il est compl\u00e9t\u00e9."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "buddha_de_bamiyan_3",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BUDDHA OF BAMIYAN"
+        },
+        "buddha_de_bamiyan_4": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Casse-t\u00eate de 1008 morceaux repr\u00e9sentant l\u2019une des statues du Bouddha en pieds (env. Ve si\u00e8cle apr\u00e8s J-C) qui se trouvaient dans le district de B\u00e2miy\u00e2n (centre-est de l'Afghanistan) et que les talibans ont d\u00e9truites en mars 2001, au moyen d'explosifs et de tirs d'artillerie, puisque toute repr\u00e9sentation humaine est interdite par la doctrine du wahhabisme. Le casse-t\u00eate est dispos\u00e9, d\u00e9fait, \u00e0 m\u00eame le sol. Les visiteurs sont invit\u00e9s \u00e0 l\u2019assembler ou \u00e0 le d\u00e9faire \u00e0 nouveau, s\u2019il est compl\u00e9t\u00e9."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "buddha_de_bamiyan_4",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "BUDDHA OF BAMIYAN II"
+        },
+        "description": "Centre des arts actuels SKOL, 7 septembre au 6 octobre 2012, Montr\u00e9al",
+        "name": "skol",
+        "skol": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "La latitude et la longitude du Centre des arts actuels Skol en lettres de vinyle noir."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "skol",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "SKOL"
+        },
+        "skol_eleven": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Pour la rentr\u00e9e culturelle, Skol pr\u00e9sente 11, la premi\u00e8re exposition solo de l'artiste conceptuel montr\u00e9alais Steve Giasson.",
+                "Onze ans apr\u00e8s les attaques terroristes du 11 septembre 2001, force est d\u2019admettre que l\u2019Occident ne s\u2019est pas encore remis de cet \u00e9v\u00e9nement: les guerres larv\u00e9es et d\u00e9sormais sans nom dans lesquelles la Coalition s\u2019est engag\u00e9e, une crise \u00e9conomique mondiale et un certain climat de peur et de m\u00e9fiance t\u00e9moignent du fait que notre civilisation a \u00e9t\u00e9 \u00e9branl\u00e9e.",
+                "Dans le cadre de l\u2019exposition 11, l\u2019artiste conceptuel Steve Giasson cherche justement \u2013 en multipliant les emprunts, les prolongements, les \u00e9chos, mais aussi les m\u00e9diums \u2013 \u00e0 cerner modestement les contrecoups et les relations complexes que cet \u00ab effroyable spectacle \u00bb (Mondzain, 2002, p.9) et d\u2019autres signes avant-coureurs entretiennent encore avec l\u2019image. Il pr\u00e9sente donc six pi\u00e8ces qui tentent, non pas de \u00ab revisiter l\u2019\u00e9v\u00e9nement lui-m\u00eame, mais plut\u00f4t ses cons\u00e9quences, ses manifestations m\u00e9diatis\u00e9es \u00bb,  (Enwezor, 2008. p.29) passant notamment par la mise en boucle de ses images, mais aussi par la prolif\u00e9ration galopante des commentaires \u00e0 leur sujet."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "skol_eleven",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Le Centre des arts actuels Skol pr\u00e9sente 11 de Steve Giasson"
+        },
+        "skol_ghostsofghostsof": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "La phrase \u00ab GHOSTSOFGHOSTSOF \u00bb dispos\u00e9e en cercle de 40\" de diam\u00e8tre en lettres de vinyle blanc sur un mur blanc."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "skol_ghostsofghostsof",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "GHOSTSOFGHOSTSOF"
+        },
+        "skol_vue_installation_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "La latitude et la longitude du Centre des arts actuels Skol en lettres de vinyle noir."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "skol_vue_installation_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "SKOL"
+        },
+        "skol_vue_installation_2": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "La latitude et la longitude du Centre des arts actuels Skol en lettres de vinyle noir."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "skol_vue_installation_2",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "SKOL"
+        },
+        "title": "11"
+    },
+    "table_reflexive": {
+        "description": "",
+        "name": "table_reflexive",
+        "table_reflexive_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "table_reflexive_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "title": "Table r\u00e9flexive"
+    },
+    "the_dark_would_exhibition": {
+        "description": "",
+        "name": "the_dark_would_exhibition",
+        "the_dark_would_exhibition_1": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                ""
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "",
+            "name": "the_dark_would_exhibition_1",
+            "otherDate": "",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": ""
+        },
+        "title": "The Dark Would"
+    },
+    "trigen": {
+        "ai_weiwei_sunflower_seeds": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Deux graines de tournesol en porcelaine peinte \u00e0 la main, vol\u00e9es par Steve Giasson en avril 2011, lors de l\u2019exposition \u00ab Sunflower Seeds \u00bb d\u2019Ai Weiwei \u00e0 la Tate Modern de Londres (tandis que l\u2019artiste chinois \u00e9tait toujours d\u00e9tenu par les autorit\u00e9s de son pays) + 81 bustes du David de Michel-Ange en plastique blanc, dont le mod\u00e8le a \u00e9t\u00e9 fabriqu\u00e9 en Chine et vendu au Canada pour 2 $. Dimensions variables."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": null,
+            "name": "ai_weiwei_sunflower_seeds",
+            "otherDate": "Exposition \u00ab troisi\u00e8me g\u00e9n\u00e9ration \u00bb, pad p\u00e9pini\u00e8re artistique daviers, 29 mars au 8 avril 2012, Angers.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Ai Weiwei, Sunflower Seeds + Eighty One Roman Busts (Made In China)"
+        },
+        "andy_warhol_has_been_shot": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "S\u00e9rigraphie inspir\u00e9e par la s\u00e9rie de peintures d\u2019Andy Warhol Death and Disasters, repr\u00e9sentant Warhol entrant dans l\u2019ambulance apr\u00e8s l\u2019attentat perp\u00e9tr\u00e9 contre lui par l\u2019activiste Valerie Solanas."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "2012. S\u00e9rigraphie sur papier Bristol 200g/m<sup>2</sup>, \u00e9dition tir\u00e9e \u00e0 30 ex. 40 x 60 cm.",
+            "name": "andy_warhol_has_been_shot",
+            "otherDate": "Exposition \u00ab troisi\u00e8me g\u00e9n\u00e9ration \u00bb, pad p\u00e9pini\u00e8re artistique daviers, 29 mars au 8 avril 2012, Angers.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Andy Warhol has been shot"
+        },
+        "description": "pad p\u00e9pini\u00e8re artistique daviers, 29 mars au 8 avril 2012, Angers",
+        "je_suis_un_veritable_artiste": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": null,
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "2012. Impression num\u00e9rique sur papier, \u00e9dition tir\u00e9e \u00e0 32 ex. 182, 25 x 54 cm.",
+            "name": "je_suis_un_veritable_artiste",
+            "otherDate": "Exposition \u00ab troisi\u00e8me g\u00e9n\u00e9ration \u00bb, pad p\u00e9pini\u00e8re artistique daviers, 29 mars au 8 avril 2012, Angers.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Je suis un v\u00e9ritable artiste"
+        },
+        "la_recette_du_bonheur_receipe_of_happiness": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "2 litres de Coca-Cola r\u00e9pandus au sol sur une surface d\u2019un m\u00e8tre<sup>2</sup>."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "2012. Dimensions variables. Lettrage adh\u00e9sif noir, 2 litres de Coca-Cola.",
+            "name": "la_recette_du_bonheur_receipe_of_happiness",
+            "otherDate": "Exposition \u00ab troisi\u00e8me g\u00e9n\u00e9ration \u00bb, pad p\u00e9pini\u00e8re artistique daviers, 29 mars au 8 avril 2012, Angers.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "La recette du bonheur / Receipe of happiness"
+        },
+        "name": "trigen",
+        "still_in_search": {
+            "authors": null,
+            "buylink": null,
+            "date": "0001-01-01T00:00:00+00:00",
+            "descriptions": [
+                "Lors d\u2019un voyage en Angleterre, Steve Giasson s\u2019est envoy\u00e9 \u00e0 lui-m\u00eame (\u00e0 Montr\u00e9al) une s\u00e9rie de 13 cartes postales repr\u00e9sentant Bas Jan Ader sur son bateau avant qu\u2019il n\u2019entreprenne le voyage au cours duquel il a trouv\u00e9 la mort en voulant traverser l\u2019Atlantique, des USA au Royaume-Uni (In Search of the Miraculous, 1975). Ces cartes postales furent envoy\u00e9es \u00e0 nouveau, une \u00e0 une, de Montr\u00e9al \u00e0 Angers, adress\u00e9e au commissaire Quentin Lannes, afin qu\u2019elles retraversent l\u2019oc\u00e9an. Jusqu\u2019ici huit seulement sont parvenues \u00e0 destination."
+            ],
+            "downloadurl": null,
+            "lookbooks": null,
+            "materials": "2011-2012. S\u00e9rigraphie sur papier cartonn\u00e9, \u00e9dition tir\u00e9e \u00e0 13 ex. 10,16 x 17,78 cm ch.",
+            "name": "still_in_search",
+            "otherDate": "Exposition \u00ab troisi\u00e8me g\u00e9n\u00e9ration \u00bb, pad p\u00e9pini\u00e8re artistique daviers, 29 mars au 8 avril 2012, Angers.",
+            "publishedby": null,
+            "tags": [
+                "Projets"
+            ],
+            "title": "Still In Search"
+        },
+        "title": "troisi\u00e8me g\u00e9n\u00e9ration"
+    }
+}

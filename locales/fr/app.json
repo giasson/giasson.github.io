@@ -1,0 +1,193 @@
+{
+  "title": "Steve Giasson",
+  "description": "Steve Giasson est un artiste multidisciplinaire (poésie conceptuelle, vidéo, performance, théâtre). Site officiel de Steve Giasson.",
+  "cultures": {
+    "fr": {
+      "nativeName": "Français",
+      "englishName": "French"
+    },
+    "en": {
+      "nativeName": "English",
+      "englishName": "English"
+    }
+  },
+  "nav": {
+    "books": {
+      "name": "books",
+      "location": "books",
+      "title": "Livres",
+      "icon": ""
+    },
+    "exhibitions": {
+      "name": "exhibitions",
+      "location": "exhibitions",
+      "title": "Expositions",
+      "icon": ""
+    },
+    "videos": {
+      "name": "videos",
+      "location": "videos",
+      "title": "Vidéos",
+      "icon": ""
+    },
+    "texts": {
+      "name": "texts",
+      "location": "texts",
+      "title": "Textes",
+      "icon": ""
+    },
+    "links": {
+      "name": "links",
+      "location": "links",
+      "title": "Liens",
+      "icon": ""
+    },
+    "portfolio": {
+      "name": "portfolio",
+      "location": "portfolio",
+      "title": "Portfolio",
+      "icon": ""
+    },
+    "cv": {
+      "name": "cv",
+      "location": "cv",
+      "title": "C.V.",
+      "icon": ""
+    },
+    "contact": {
+      "name": "contact",
+      "location": "contact",
+      "title": "Contact",
+      "icon": ""
+    },
+    "facebook": {
+      "name": "facebook",
+      "location": "facebook",
+      "title": "Facebook",
+      "icon": ""
+    },
+    "home": {
+      "name": "home",
+      "location": "#",
+      "title": "",
+      "icon": ""
+    },
+    "youtube": {
+      "name": "youtube",
+      "location": "youtube",
+      "title": "Youtube",
+      "icon": ""
+    },
+    "conceptart": {
+      "name": "conceptart",
+      "location": "conceptart",
+      "title": "Art conceptuel",
+      "icon": ""
+    },
+    "top10": {
+      "name": "top10",
+      "location": "top10",
+      "title": "Les 10 merveilles du web",
+      "icon": ""
+    },
+    "friends": {
+      "name": "friends",
+      "location": "friends",
+      "title": "Visit my friends!",
+      "icon": ""
+    },
+    "login": {
+      "name": "login",
+      "location": "login",
+      "title": "Connexion",
+      "icon": ""
+    },
+    "logout": {
+      "name": "logout",
+      "location": "logout",
+      "title": "Déconnexion",
+      "icon": ""
+    },
+    "assets": {
+      "name": "assets",
+      "location": "assets",
+      "title": "Asset Manager",
+      "icon": ""
+    },
+    "editor": {
+      "name": "editor",
+      "location": "editor",
+      "title": "Content Editor",
+      "icon": ""
+    },
+    "settings": {
+      "name": "settings",
+      "location": "settings",
+      "title": "Site Settings",
+      "icon": ""
+    },
+    "account": {
+      "name": "account",
+      "location": "account",
+      "title": "Account Settings",
+      "icon": ""
+    },
+    "profile": {
+      "name": "profile",
+      "location": "profile",
+      "title": "Edit Profile",
+      "icon": ""
+    }
+  },
+  "common": {
+    "download": "Télécharger",
+    "buy": "Acheter",
+    "toggle": "Basculer",
+    "backToTop": "Retourner en haut",
+    "signin": "Connexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "remember": "Se souvenir de moi",
+    "login": "Se connecter"
+  },
+  "artist": {
+    "name": "Steve Giasson",
+    "web": "http://www.stevegiasson.com/",
+    "email": "sg@stevegiasson.com",
+    "facebook": "steve.giasson.ma",
+    "twitter": "stevegiasson",
+    "linkedin": "ca.linkedin.com/pub/steve-giasson/8b/1a8/556",
+    "youtube": "/user/blockheadgreen",
+    "google": "114897904075257676277",
+    "github": "giasson"
+  },
+  "copyright": {
+    "year": "2014",
+    "name": "Steve Giasson",
+    "legal": "site web officiel.",
+    "terms": {
+      "title": "Terms",
+      "url": "about:blank"
+    },
+    "privacy": {
+      "title": "Privacy",
+      "url": "about:blank"
+    }
+  },
+  "cv": {
+    "title": "C.V.",
+    "process": {
+      "title": "Démarche",
+      "content": [
+        "Steve Giasson (° 1979, Québec) est un artiste conceptuel qui utilise une grande variété de formes et de médiums (écriture conceptuelle, vidéo, performance, photographie...) afin de transgresser les genres et de questionner leurs limites.\r\nLes notions romantiques d’authenticité et d’originalité sont, chez lui, mises à mal, dans une pratique qui ne ménage ni les emprunts à la vie quotidienne, ni les références à l’histoire de l’art – entre hommage et outrage – dans un effort de démythification du processus créateur et de la figure de l’artiste.",
+        "Il compte 19 livres à son actif (notamment DIRECTIONS, co-écrit avec Robert Fitterman (No press, 2010), 11 (Publishing The Unpublishable # 56 on UbuWeb, 2010) PAGE NOT FOUND (approprié) par Vanessa Place (oodpress, 2011), SOME GASOLINE PRICES et TIFFANY & Co. POEMS (Apple Pie Editions, 2012)) et il poursuit actuellement un doctorat en Étude et pratique des arts (UQÀM). Son travail a été présenté au Canada, aux États-Unis, au Mexique, en Angleterre, en Espagne et en France, notamment dans le cadre de larges expositions internationales comme le Text Festival 2011 (Manchester) et la Liverpool Biennial 2012. Il vit et travaille à Montréal."
+      ]
+    },
+    "commands": {
+      "download": {
+        "title": "Télécharger le C.V.",
+        "url": "fr/cv"
+      }
+    }
+  }
+}

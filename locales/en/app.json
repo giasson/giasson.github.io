@@ -1,0 +1,151 @@
+﻿{
+  "title": "Steve Giasson",
+  "description": "Steve Giasson is a multidisciplinary artist (conceptual poetry, video, performance, theater). Steve Giasson official web site.",
+  "cultures": {
+    "fr": {
+      "nativeName": "Français",
+      "englishName": "French"
+    },
+    "en": {
+      "nativeName": "English",
+      "englishName": "English"
+    }
+  },
+  "nav": {
+    "books": {
+      "name": "books",
+      "location": "books",
+      "title": "Books",
+      "icon": ""
+    },
+    "exhibitions": {
+      "name": "exhibitions",
+      "location": "exhibitions",
+      "title": "Exhibitions",
+      "icon": ""
+    },
+    "videos": {
+      "name": "videos",
+      "location": "videos",
+      "title": "Videos",
+      "icon": ""
+    },
+    "texts": {
+      "name": "texts",
+      "location": "texts",
+      "title": "Texts",
+      "icon": ""
+    },
+    "links": {
+      "name": "links",
+      "location": "links",
+      "title": "Links",
+      "icon": ""
+    },
+    "portfolio": {
+      "name": "portfolio",
+      "location": "portfolio",
+      "title": "Portfolio",
+      "icon": ""
+    },
+    "cv": {
+      "name": "cv",
+      "location": "cv",
+      "title": "C.V.",
+      "icon": ""
+    },
+    "contact": {
+      "name": "contact",
+      "location": "contact",
+      "title": "Contact",
+      "icon": ""
+    },
+    "facebook": {
+      "name": "facebook",
+      "location": "facebook",
+      "title": "Facebook",
+      "icon": ""
+    },
+    "home": {
+      "name": "home",
+      "location": "#",
+      "title": "",
+      "icon": ""
+    },
+    "youtube": {
+      "name": "youtube",
+      "location": "youtube",
+      "title": "Youtube",
+      "icon": ""
+    },
+    "conceptart": {
+      "name": "conceptart",
+      "location": "conceptart",
+      "title": "Conceptual Art",
+      "icon": ""
+    },
+    "favorites": {
+      "name": "top10",
+      "location": "/top10",
+      "title": "Les 10 merveilles du web",
+      "icon": ""
+    },
+    "friends": {
+      "name": "friends",
+      "location": "/friends",
+      "title": "Visit my friends!",
+      "icon": ""
+    }
+  },
+  "common": {
+    "download": "Download",
+    "buy": "Acheter",
+    "toggle": "Toggle navigation",
+    "backToTop": "Back to top",
+    "signin": "Sign-in",
+    "username": "Username",
+    "password": "Password",
+    "remember": "Remember me",
+    "login": "Login"
+  },
+  "artist": {
+    "name": "Steve Giasson",
+    "web": "http://www.stevegiasson.com/",
+    "email": "sg@stevegiasson.com",
+    "facebook": "steve.giasson.ma",
+    "twitter": "stevegiasson",
+    "linkedin": "ca.linkedin.com/pub/steve-giasson/8b/1a8/556",
+    "youtube": "/user/blockheadgreen",
+    "google": "114897904075257676277",
+    "github": "giasson"
+  },
+  "copyright": {
+    "year": "2014",
+    "name": "Steve Giasson",
+    "legal": "official site.",
+    "terms": {
+      "title": "Terms",
+      "url": "about:blank"
+    },
+    "privacy": {
+      "title": "Privacy",
+      "url": "about:blank"
+    }
+  },
+  "cv": {
+    "title": "C.V.",
+    "process": {
+      "title": "Process",
+      "content": [
+        "Steve Giasson (° 1979, Québec) is a conceptual artist who uses a wide variety of forms and media (conceptual writing, video, performance, photography) to transgress genres and to question their limits.\r\nIn a practice that does not refrain to borrow everyday life elements or references to Art History – between homage and outrage –, romantic notions of authenticity and originality are undermined. This process is part of an effort to demystify the creative process and the figure of the artist.",
+        "He has published 19 books (notably DIRECTIONS, coauthored with Robert Fitterman (No press, 2010), 11 (Publishing The Unpublishable # 56 on UbuWeb, 2010) PAGE NOT FOUND (appropriated) by Vanessa Place (oodpress, 2011), SOME GASOLINE PRICES and TIFFANY & Co. POEMS (Apple Pie Editions, 2012)) and is currently pursuing a Ph.D. in Étude et pratique des arts (UQÀM). His work has been shown in Canada, United States, Mexico, England, Spain and France, including some large international exhibitions like the Text Festival 2011 and the Liverpool Biennial 2012. He lives and works in Montréal."
+      ]
+    },
+    "commands": {
+      "download": {
+        "title": "Download the C.V.",
+        "url": "en/cv"
+      }
+    }
+  }
+}

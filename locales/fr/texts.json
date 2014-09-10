@@ -1,0 +1,62 @@
+{
+  "lienT1": {
+    "name": "lienT1",
+    "title": "YouTube, Univers Néobaroque (3): Labyrinthique, complexe et pervers",
+    "description": null,
+    "urls": ["content/texts/antonio_dominguez_leiva_youtube_univers_neobaroque.pdf"]
+  },
+  "lienT2": {
+    "name": "lienT2",
+    "title": "Poetry is Dead's Queer Issue Speaks Directly To Your Heart",
+    "description": null,
+    "urls": ["content/texts/autostraddle_poetry_is_dead’s_queer_issue_speaks_directly_to_your_heart.pdf"]
+  },
+  "lienT3": {
+    "name": "lienT3",
+    "title": "Candice Maddy en conversation avec / with Steve Giasson",
+    "description": null,
+    "urls": ["content/texts/candice_maddy_en_conversation_avec_with_steve_giasson_lemon_hound.pdf"]
+  },
+  "lienT4": {
+    "name": "lienT4",
+    "title": "Steve Giasson’s “11″ at Skol is a timely reflection of our haunted post-9/11 present September 19, 2012 By Natalie Zayne",
+    "description": null,
+    "urls": ["content/texts/natalie_zayne_and_steve_giasson_11_at_skol.pdf"]
+  },
+  "lienT5": {
+    "name": "lienT5",
+    "title": "Queers Fail Better – Q/A with Steve Giasson",
+    "description": null,
+    "urls": ["content/texts/queers_fail_better_qna_with_steve_giasson_poetry_is_dead.pdf"]
+  },
+  "lienT6": {
+    "name": "lienT6",
+    "title": "The Hyperliterature Exchange",
+    "description": null,
+    "urls": ["content/texts/the_hyperliterature_exchange.pdf"]
+  },
+  "lienT7": {
+    "name": "lienT7",
+    "title": "SKOL : 11",
+    "description": null,
+    "urls": ["content/texts/vanessa_place_skol_11_fr.pdf"]
+  },
+  "lienT8": {
+    "name": "lienT8",
+    "title": "246 Matrix Magazine, Conceptual Issue",
+    "description": null,
+    "urls": ["content/texts/giasson_246_matrix_magazine_conceptual_issue.jpg"]
+  },
+  "lienT9": {
+    "name": "lienT9",
+    "title": "Poetry Is Dead, Queer Issue",
+    "description": null,
+    "urls": ["content/texts/poetry_is_dead_queer_issue.jpg"]
+  },
+  "lienT10": {
+    "name": "lienT10",
+    "title": "Perfect Lovers in Poetry Is Dead",
+    "description": null,
+    "urls": ["content/texts/giasson_perfect_lovers_in_poetry_is_dead.jpg"]
+  }
+}
