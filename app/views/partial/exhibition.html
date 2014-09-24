@@ -1,0 +1,26 @@
+<section data-bind="with:activeExhibition">
+	<h1 data-bind="text: title"></h1>
+    <!-- ko with: descriptions  -->
+    <p data-bind="html: $data"></p>
+    <!-- /ko -->
+	<div data-bind="foreach: $parent.ExhibitionRows" class="container-fluid">
+
+		<div data-bind="foreach: $data" class="row">
+
+			<div class="col-md-4 exhibit">
+				<!-- ko with: image  -->
+				<div>
+					<div data-bind="" class="thumbnail">
+			        	<img data-bind="attr: {src: $data }" data-src="holder.js/100%x180" rel="zoom"/>
+			        </div>
+				</div>
+		        <!-- /ko -->
+				<h2 data-bind="html: title"></h2>
+		        <!-- ko with: descriptions  -->
+		        <p data-bind="html: $data"></p>
+		        <!-- /ko -->
+			</div>
+
+		</div>
+	</div>
+</section>

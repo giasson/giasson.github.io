@@ -1,0 +1,14 @@
+<section data-bind="with:">
+	<h2 data-bind="text: title"></h2>
+	<div data-bind="foreach: items">
+		<h3 data-bind="html: title"></h3>
+		<!-- ko with: image  -->
+		<div class="thumbnail">
+        	<img data-bind="attr: {src: $data }" data-src="holder.js/100%x180" rel="zoom"/>
+        </div>
+        <!-- /ko -->
+        <!-- ko with: descriptions  -->
+        <p data-bind="html: $data"></p>
+        <!-- /ko -->
+	</div>
+</section>

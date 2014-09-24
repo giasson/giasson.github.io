@@ -1,38 +1,78 @@
-<!doctype html>
+﻿<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Giasson.github.io by giasson</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Steve Giasson is a multidisciplinary artist (conceptual poetry, video, performance, theater). Steve Giasson official web site.">
+    <meta name="author" content="Steve Giasson">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="telephone=no"/>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>Steve Giasson - Official web site</title>
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+
+    <link rel="apple-touch-startup-image" href="/images/ios-startup-image-landscape.png" media="(orientation:landscape)" />
+    <link rel="apple-touch-startup-image" href="/images/ios-startup-image-portrait.png" media="(orientation:portrait)" />
+    <link rel="apple-touch-icon" href="/images/icon.png"/>
+
+    <link rel="stylesheet" href="/css/vendor/bootstrap/bootstrap.css" />
+    <link rel="stylesheet" href="/css/vendor/font-awesome/font-awesome.css" />
+    <link rel="stylesheet" href="/css/vendor/webfont-OpenSans-Light/OpenSans-Light.css" />
+    <link rel="stylesheet" href="/css/vendor/durandal/durandal.css" />
+    <link rel="stylesheet" href="/css/vendor/jstree/style.css" />
+
+    <link rel="stylesheet" href="/css/vendor/kendo-ui-core/kendo.common-bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/vendor/kendo-ui-core/kendo.bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap-theme.css" />
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Giasson.github.io</h1>
-        <p>Steve Giasson is a multidisciplinary artist (conceptual poetry, video, performance, theater).</p>
 
+    <link rel="stylesheet" href="/css/site.css" />
 
-        <p class="view"><a href="https://github.com/giasson">View My GitHub Profile</a></p>
+    <script type="text/javascript">
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement("style");
+            var mq = "@@-ms-viewport{width:auto!important}";
+            msViewportStyle.appendChild(document.createTextNode(mq));
+            document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+        }
+    </script>
 
-      </header>
-      <section>
-        <h1>
-<a name="giassongithubio" class="anchor" href="#giassongithubio"><span class="octicon octicon-link"></span></a>giasson.github.io</h1>
-
-<p>Steve Giasson is a multidisciplinary artist (conceptual poetry, video, performance, theater).</p>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+</head>
+<body>
+    <div id="applicationHost">
+      <div class="splash">
+        <div class="message">
+          <img src="../images/icon.png" alt="Steve Giasson" />
+        </div>
+        <img src="../images/progressbar_bluedots_large.gif" alt="Progress..." />
+      </div>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
+  
+  <!-- 
+    This hidden div should be included in static page content.
+    Currently, browsers check for fields suitable for remembered passwords 
+    only when page initially loads. 
+    Later we simply move the fields from this div to actual form, where required
+  -->
+  <div id="dont_forget" style="display: none">
+    <form action="" method="post">
+      <input type="text" name="email" id="email"/>
+      <input type="password" name="password" id="password"/>
+      <input type="submit" value="Login" id="dummy_submit"/>
+    </form>
+  </div>
+  
+   <script src="socket.io/socket.io.js"></script>
+   <script src="/app/reload-client.js"></script>
+
+   <script src="/js/vendor/requirejs/require.js" data-main="/app/main.js"></script>
+
   </body>
 </html>

@@ -1,0 +1,23 @@
+﻿<div class="books container">
+	<!-- ko foreach: pfitems -->
+    <div class="row">
+        <div class="col-md-12">
+        	<div class="container">
+	            <h4 data-bind="html: title"></h4>
+	           <!-- ko foreach: urls -->
+		           <!-- ko foreach: $data -->
+			            	<!-- ko if: $data -->
+				            	<div>
+				            		<a target="_blank" data-bind="attr:{ href: $data }, text: $data"></a>
+				            	</div>
+				            <!-- /ko -->
+			        <!-- /ko -->
+		        <!-- /ko -->
+        	</div>
+        </div>
+    </div>
+	<!-- /ko -->
+    <!-- FOOTER -->
+    <!-- ko footer:{} -->
+    <!-- /ko -->
+</div>

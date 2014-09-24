@@ -1,0 +1,46 @@
+<section>
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators" data-bind="foreach:headlines">
+            <li data-target="#myCarousel" data-slide-to="$index" data-bind="css:{'active':isActive}"></li>
+        </ol>
+
+        <div class="carousel-inner" data-bind="foreach: headlines">
+            <!-- ko compose: 'partial/slide.html' -->
+            <!-- /ko -->
+        </div>
+
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="fa fa-chevron-left fa-2x"></span></a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="fa fa-chevron-right fa-2x"></span></a>
+    </div><!-- /.carousel -->
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+    <div class="container marketing">
+
+        <!-- START THE FEATURETTES -->
+        <!-- Three columns of text below the carousel -->
+        <div class="row" data-bind="foreach: featurettes">
+            <!-- ko compose: 'partial/featurette.html' -->
+            <!-- /ko -->
+        </div>
+        <!-- /END THE FEATURETTES -->
+        <hr class="featurette-divider">
+
+        <!-- START THE FEATURES -->
+        <!-- ko foreach: features -->
+            <!-- ko compose: 'partial/feature.html' -->
+            <!-- /ko -->
+            <hr class="featurette-divider">
+        <!-- /ko -->
+        <!-- /END THE FEATURES -->
+
+        <!-- FOOTER -->
+        <!-- ko footer:{} -->
+        <!-- /ko -->
+
+    </div><!-- /.container -->
+</section>

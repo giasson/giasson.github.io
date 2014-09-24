@@ -1,0 +1,20 @@
+<div class="row featurette">
+	<!-- ko if: ($index() % 2 == 0) -->
+	    <div class="col-md-5">
+	        <img class="featurette-image img-responsive" data-bind="attr:{src: image, alt: title}" />
+	    </div>
+	<!-- /ko -->
+
+    <div class="col-md-7">
+        <h2 class="featurette-heading"><span data-bind="text: title"></span> &nbsp; <span class="text-muted" data-bind="text: subtitle"></span></h2>
+        <p class="lead" data-bind="text: description"></p>
+    </div>
+    
+    <!-- ko if: ($index() % 2 != 0) -->
+
+	    <div class="col-md-5">
+	        <img class="featurette-image img-responsive" data-bind="attr:{src: image, alt: title}" />
+	    </div>
+		
+	<!-- /ko -->
+</div>

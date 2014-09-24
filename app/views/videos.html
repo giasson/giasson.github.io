@@ -1,0 +1,19 @@
+﻿<div class="books container">
+	<!-- ko foreach: pfrows -->
+
+    <div class="row" data-bind="foreach: $data">
+        <div class="col-md-2">
+        	<div class="container">
+	            <a target="_blank" data-bind="attr:{ href: url }">
+		            <img data-bind="attr: { src: image }" />
+                    <h2 data-bind="html: title"></h2>
+	            </a>
+            </div>
+        </div>
+    </div>
+
+	<!-- /ko -->
+    <!-- FOOTER -->
+    <!-- ko footer:{} -->
+    <!-- /ko -->
+</div>

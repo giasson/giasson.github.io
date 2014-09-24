@@ -1,0 +1,78 @@
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only" data-i18n="app:common.toggle"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="btn-group">
+                <a class="btn" href="#" data-bind="css: { active: router.home.isActive }">
+                    <img id="logo" class="svg" src="/images/steve_giasson.svg" width="81" height="40" alt="Steve Giasson" />
+                </a>
+                <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+                    <span class="fa fa-chevron-down"></span>
+                </a>
+                <ul class="dropdown-menu" data-bind="foreach: homeDropdown">
+                    <!-- ko with: header -->
+                    <li role="presentation" class="dropdown-header" data-bind="text:$data" />
+                    <!-- /ko -->
+                    <!-- ko with: route -->
+                    <li data-bind="css: { active: isActive }">
+                        <a data-bind="attr: { id: route, href: hash }">
+                            <i data-bind="css: icon" /> <span data-bind="text: title" />
+                        </a>
+                    </li>
+                    <!-- /ko -->
+                    <!-- ko with: divider -->
+                    <li role="presentation" class="divider"></li>
+                    <!-- /ko -->
+                </ul>
+            </div>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav" data-bind="foreach: router.navigationModel">
+                <li data-bind="css: { active: isActive }">
+                    <a data-bind="attr: { href: hash }"><i data-bind="css: icon" /> <span data-bind="text: title" /></a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" data-bind="visible: !user()">
+                <li>
+                    <a id="lang" data-bind="text: lang, click: setLang"></a>
+                </li>
+            </ul>
+            <div class="nav navbar-nav navbar-right user-dropdown" data-bind="visible: user()">
+                
+                <!-- ko with: user -->
+                <div class="btn-group">
+                    <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+
+                        <img data-bind="attr:{ src: avatar_url }" id="avatar" data-src="holder.js/45x45" width="45" height="45" />
+                        <span data-bind="text: name"></span>
+                    </a>
+                    <!-- ko with: $parent.userDropdown -->
+                    <ul class="dropdown-menu" data-bind="foreach: $data">
+                        <!-- ko with: header -->
+                        <li role="presentation" class="dropdown-header" data-bind="text:$data" />
+                        <!-- /ko -->
+                        <!-- ko with: route -->
+                        <li data-bind="css: { active: isActive }">
+                            <a data-bind="attr: { href: hash }">
+                                <i data-bind="css: icon" /> <span data-bind="text: title" />
+                            </a>
+                        </li>
+                        <!-- /ko -->
+                        <!-- ko with: divider -->
+                        <li role="presentation" class="divider"></li>
+                        <!-- /ko -->
+                    </ul>
+                    <!-- /ko -->
+
+                </div>
+                <!-- /ko -->
+            </div>
+        </div>
+
+    </div>
+</nav>

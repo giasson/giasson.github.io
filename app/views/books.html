@@ -1,0 +1,26 @@
+﻿<div class="books container">
+    <div class="container">
+        <div class="row">
+        
+    <!-- ko foreach: pfrows -->
+            <div class="col-md-4" data-bind="foreach: $data">
+                <div class="book">
+                    <h1 data-bind="html: title"></h1>
+                    <!-- ko with: image  -->
+                    <div class="thumbnail">
+                        <img data-bind="attr: {src: $data }" data-src="holder.js/100%x180" />
+                    </div>
+                    <!-- /ko -->
+                    <!-- ko with: descriptions  -->
+                    <p data-bind="html: $data"></p>
+                    <!-- /ko -->
+                </div>
+            </div>
+    <!-- /ko -->
+
+        </div>
+    </div>
+    <!-- FOOTER -->
+    <!-- ko footer:{} -->
+    <!-- /ko -->
+</div>

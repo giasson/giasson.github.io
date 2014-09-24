@@ -1,0 +1,19 @@
+﻿<div class="exhibitions container">
+    <div class="row">
+        <div class="col-md-2">
+            <div class="hidden-print affix" role="navigation">
+                <ul class="nav exhibitions-nav" data-spy="affix" data-offset-top="70" data-bind="foreach: pfgroups">
+                    <li data-bind="css: { selected: ($root.activeExhibition().route === route) }"><a href="#" data-bind="attr:{ href: '#' + route }, html:title"></a></li>
+        		</ul>
+            </div>
+        </div>
+        <div class="col-md-10">
+            <div data-bind="compose: {view:'partial/exhibition.html'}">
+            </div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <!-- ko footer:{} -->
+    <!-- /ko -->
+</div>

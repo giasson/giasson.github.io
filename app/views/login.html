@@ -1,0 +1,43 @@
+<div class="container">
+	<!-- Our dummy iframe where the form submits to -->
+	<iframe src="dummy.html" name="dummy" style="display: none"></iframe>
+	<form action="" method="post" target="dummy">
+		<div id="login" class="container" data-bind="visible:!isAuthenticated()">
+			<div class="row">
+				<div class="input-group col-md-12">	
+					<h3 data-bind="html:title"></h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="input-group col-md-12">	
+					<input type="text" data-bind="attr:{ placeholder: phUsername }, value: username" name="email" id="email" class="form-control" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="input-group col-md-12">			
+					<input type="password" data-bind="attr:{ placeholder: phPassword }, value: password" name="password" id="password" class="form-control"/>
+				</div>
+			</div>
+			<div class="row">
+				<div class="checkbox pull-left">		
+					<label> 
+						<input type="checkbox" data-bind="attr: { value: phLogin } " class="form-control" />
+						<!-- ko text: remember -->
+						<!-- /ko -->
+					</label>
+				</div>
+				<div class="input-group pull-right">		
+					<input type="submit" data-bind="attr: { value: phLogin }, click:login, enable: loginEnabled " class="form-control"/>
+				</div>
+			</div>
+		</div>
+	</form>
+
+	<div class="container hide">
+		<form id="file-form" action="handler.php" method="POST">
+		  <input type="file" id="file-select" name="photos[]" multiple/>
+		  <button type="submit" id="upload-button">Upload</button>
+		</form>
+	</div>
+
+</div>
